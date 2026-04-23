@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- BANNER -->
-<picture>
-  <img width="100%" src="https://raw.githubusercontent.com/zainulabdeen/zainulabdeen/main/banner.svg" alt="Zain Ul Abdeen" onerror="this.style.display='none'" />
-</picture>
-
-<!-- FALLBACK: plain text header if banner SVG not uploaded yet -->
-
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
