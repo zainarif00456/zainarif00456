@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zain%20Ul%20Abdeen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Backend%20%26%20AI%20Engineer%20%E2%80%94%20LLM%20Systems%20%7C%20Multi-Agent%20Architect&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,100&height=4&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&width=700&lines=Building+Production+AI+Platforms+%F0%9F%9A%80;Multi-Agent+Systems+%7C+LLM+Orchestration;RAG+Architectures+%7C+Scalable+Backends;4%2B+Years+%7C+100%2B+Enterprise+Clients)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ZAIN%20UL%20ABDEEN&fontSize=48&fontColor=FF0000&animation=fadeIn&fontAlignY=45&desc=%3E_%20Senior%20Backend%20%2B%20AI%20Engineer%20%7C%20Multi-Agent%20Architect&descAlignY=68&descSize=15&descColor=CCCCCC" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=FF2222&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Building+Production+AI+Platforms+at+Scale;%5B%2B%5D+Multi-Agent+Orchestration+%7C+LangGraph+%7C+CrewAI;%5B%2B%5D+RAG+Architectures+%7C+LLM+Routing+%7C+Vector+DBs;%5B%2B%5D+4%2B+Years+%7C+7%2B+Live+AI+Systems+%7C+100%2B+Enterprise+Clients;%5B%2B%5D+Open+to+Remote+%2F+Hybrid+%2F+Onsite+Roles)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ul-abdeen)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainarif00456@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zainulabdeen)
-![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-00B4D8?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid%20%7C%20Onsite-2ECC71?style=for-the-badge&logo=briefcase&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF2222)](https://linkedin.com/in/zain-ul-abdeen)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF2222)](mailto:zainarif00456@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2222)](https://github.com/zainulabdeen)
+![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=FF2222)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-FF2222?style=for-the-badge&logo=statuspage&logoColor=black)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=zainulabdeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=zainulabdeen&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF2222&icon_color=FF2222&text_color=CCCCCC&hide_border=true&count_private=true&include_all_commits=true" />
 
 ## `whoami`
 
@@ -169,14 +171,14 @@ class ZainUlAbdeen:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zainulabdeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulabdeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zainulabdeen&show_icons=true&bg_color=0D0D0D&title_color=FF2222&icon_color=FF2222&text_color=CCCCCC&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulabdeen&layout=compact&bg_color=0D0D0D&title_color=FF2222&text_color=CCCCCC&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zainulabdeen&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zainulabdeen&theme=dark&background=0D0D0D&ring=FF2222&fire=FF2222&currStreakLabel=FF2222&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -186,7 +188,7 @@ class ZainUlAbdeen:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zainulabdeen&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zainulabdeen&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -194,17 +196,17 @@ class ZainUlAbdeen:
 
 <div align="center">
 
-### 💬 Let's Build Something Remarkable
+### `> LET'S BUILD SOMETHING THAT MATTERS`
 
-*I'm actively open to senior / lead roles in AI engineering — remote, hybrid, or onsite.*
+*Senior / Lead AI Engineering roles — Remote, Hybrid, or Onsite*
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainarif00456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ul-abdeen)
+[![Email Me](https://img.shields.io/badge/Drop%20a%20Mail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF2222)](mailto:zainarif00456@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF2222)](https://linkedin.com/in/zain-ul-abdeen)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zainulabdeen&label=Profile%20Views&color=6E40C9&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=zainulabdeen&label=Profile%20Views&color=FF2222&style=flat-square" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=6&section=footer" />
 
 </div>
